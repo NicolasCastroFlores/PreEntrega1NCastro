@@ -122,4 +122,5 @@ switch (pelicula) {
             alert(`El precio total es de ${total} pesos.`);
         }
 
-        alert(`¡Felicitaciones por llegar hasta aquí ${nombre}, esperamos tenerte de regreso pronto!`);
+        alert(`¡Felicitaciones por llegar hasta aquí ${nombre}, esperamos tenerte de regreso pronto!`)
+}
